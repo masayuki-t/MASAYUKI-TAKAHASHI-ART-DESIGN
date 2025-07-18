@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 文字コードの指定 */
+/*フォントの読み込み*/
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,200,300,regular,500,600,700,800,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=ADLaM+Display:100,200,300,regular,500,600,700,800,900&display=swap");
+/*Sassファイルの読み込み*/
+header {
+  top: 0;
+  position: fixed;
+  width: 100%;
+  height: 56px;
+  background-color: #E4FFAA;
+}
+@media (min-wid769px) {
+  header {
+    height: 96px;
+  }
+}/*# sourceMappingURL=style.css.map */

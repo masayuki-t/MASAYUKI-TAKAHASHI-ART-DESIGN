@@ -1,0 +1,12 @@
+/* 文字コードの指定 */
+@charset 'UTF-8'; 
+
+/*フォントの読み込み*/
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,200,300,regular,500,600,700,800,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=ADLaM+Display:100,200,300,regular,500,600,700,800,900&display=swap");
+
+/*Sassファイルの読み込み*/
+@import "base";
+@import "header";
+@import "cover-painting-by-illustrator";
+@import "cover-graphic-design"

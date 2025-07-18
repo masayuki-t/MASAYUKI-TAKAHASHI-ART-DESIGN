@@ -1,0 +1,25 @@
+//* ベーススタイル *//
+html {
+  font-size: 62.5%;
+  height: auto;
+  min-height: 100vh;
+  }
+
+  body {
+  line-height: 1.6;
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-family: 'Noto Sans JP','ADLaM Display';
+  background-color: $yellow; 
+  margin: 0;
+  padding: 0;
+  background: lightblue;
+  color: darkblue;
+  font-size: 20px;
+}
+
+//*変数*//
+$light-green: #E4FFAA;
+$middle-green:  #C7F26B;
+$dark-green: #5E6A3B;
+$yellow: #F8FFE9;
